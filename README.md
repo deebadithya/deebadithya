@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://raw.githubusercontent.com/deebadithya/deebadithya/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 ---
@@ -73,46 +73,17 @@ class DeebaAdithya:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deebadithya&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deebadithya&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=deebadithya&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=deebadithya&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deebadithya&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=deebadithya&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/deebadithya?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/deebaadithya?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
-### 🧩 Featured Projects
-
-> _Add your top 2–4 projects here — this section makes the biggest impact on recruiters. Format below, just duplicate the block:_
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔹 Project Name</h3>
-      <div align="center">One-line description of what it does and the impact/result.</div>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Tech-Stack-blue?style=flat-square"/>
-      </div>
-      <div align="center">
-        <a href="#">🔗 Repo</a> • <a href="#">🚀 Live Demo</a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔹 Project Name</h3>
-      <div align="center">One-line description of what it does and the impact/result.</div>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Tech-Stack-blue?style=flat-square"/>
-      </div>
-      <div align="center">
-        <a href="#">🔗 Repo</a> • <a href="#">🚀 Live Demo</a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
